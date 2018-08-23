@@ -36,3 +36,9 @@ B) x == y;
 C) x == y;t === 33
 
 D) x == y;t == 33
+
+
+
+MY GUESS C
+
+    my guess C
